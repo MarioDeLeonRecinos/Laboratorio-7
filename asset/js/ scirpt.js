@@ -1,1 +1,0 @@
-let container = document.getElementById(c1);
